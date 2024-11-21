@@ -1,2 +1,3 @@
 # Projects
-A New Repository
+This is my first Git Repository
+A New Repository 
